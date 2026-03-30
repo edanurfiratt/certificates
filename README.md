@@ -1,2 +1,10 @@
-# certificates
-Mükemmel gidiyorsun 🔥 tam doğru yerdesin. Şimdi son dokunuşları yapalım:  ✅ 1. DESCRIPTION (burayı doldur)  Şunu yaz 👇  My certifications in software development and cybersecurity.
+# Certificates
+
+This repository contains my certifications in software development and cybersecurity.
+
+## Certificates
+
+- C# Programming – BTK Academy  
+- Java Programming – BTK Academy  
+- Cyber Intelligence Training – Siber Kulüpler Birliği  
+- Cyber Homeland Program (CTF-based selection)
